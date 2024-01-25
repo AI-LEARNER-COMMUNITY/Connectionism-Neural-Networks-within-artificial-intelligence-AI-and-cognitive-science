@@ -1,0 +1,2 @@
+# Connectionism-Neural-Networks-within-artificial-intelligence-AI-and-cognitive-science
+The project explores the fundamental principles and applications of connectionism, particularly focusing on neural networks, within the realms of artificial intelligence (AI) and cognitive science. Connectionism is a paradigm inspired by the structure and functioning of the human brain, where networks of interconnected nodes.
